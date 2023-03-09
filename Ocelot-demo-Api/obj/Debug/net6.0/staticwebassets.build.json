@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YHjFm+YjSjiVebwHSdyJzP4YkmrGpHsmIb8xioriJhs=",
+  "Source": "Ocelot-demo-Api",
+  "BasePath": "_content/Ocelot-demo-Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
